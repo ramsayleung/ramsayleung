@@ -1,4 +1,4 @@
-[![Ramsay's github stats](https://github-readme-stats.vercel.app/api?username=ramsayleung&show_icons=true)](https://github.com/ramsayleung/ramsayleung)
+![Ramsay's GitHub Stats](./profile/stats.svg)
 
 - love life, programming and writing
 - share random thought on blog: [In Pursuit Of Simplicity](https://ramsayleung.github.io/)
